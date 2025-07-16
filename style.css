@@ -2,12 +2,12 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 3px;
   padding: 20px;
-  background: #ad186a;
+  background: #e6b2d3;
   color: #ffffff;
 }
 
 nav {
-  background: #ad186a;
+  background: #e6b2d3;
   padding: 15px;
   position: sticky;
   top: 0;
@@ -35,7 +35,7 @@ section {
 }
 
 #home {
-  background: #ad186a;
+  background: #ffffff;
 }
 
 .profile-img {
@@ -54,7 +54,7 @@ section {
 }
 
 footer {
-  background: #e6b2d3;
+  background: #ad186a;
   color: white;
   text-align: center;
   padding: 20px;
