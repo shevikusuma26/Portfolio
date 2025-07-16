@@ -3,7 +3,7 @@ body {
   margin: 3px;
   padding: 20px;
   background: #ad186a;
-  color: #ad186a;
+  color: #ffffff;
 }
 
 nav {
@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: #ad186a;
+  color: #ffffff;
   text-decoration: none;
   font-weight: bold;
 }
