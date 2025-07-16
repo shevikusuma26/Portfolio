@@ -1,13 +1,13 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  margin: 3px;
-  padding: 20px;
-  background: #e6b2d3;
+  margin: 3;
+  padding: 1;
+  background: #ad186a;
   color: #ffffff;
 }
 
 nav {
-  background: #e6b2d3;
+  background: #ffb6de;
   padding: 15px;
   position: sticky;
   top: 0;
@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: #ffffff;
+  color: white;
   text-decoration: none;
   font-weight: bold;
 }
@@ -39,9 +39,8 @@ section {
 }
 
 .profile-img {
-  width: 300px;
-  margin: 0;
-  border-radius: 8px;
+  width: 150px;
+  margin: 20px 0;
 }
 
 .project {
@@ -54,7 +53,7 @@ section {
 }
 
 footer {
-  background: #ad186a;
+  background: #e6b2d3;
   color: white;
   text-align: center;
   padding: 20px;
